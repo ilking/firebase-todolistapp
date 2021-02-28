@@ -1,0 +1,53 @@
+@import 'variables.scss';
+
+.contactContainer {
+  border: 1px solid grey;
+  border-radius: 8px;
+  padding: 8px;
+  background-color: $backgroundColor;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 20px;
+}
+
+.bioSection {
+  display: flex;
+}
+
+.profilePicture {
+  height: 70px;
+  width: 70px;
+  margin-right: 20px;
+}
+
+.nameSection {
+  font-size: 120%;
+
+  div {
+    margin-bottom: 5px;
+  }
+
+  .positionTitle {
+    font-size: 75%;
+    margin-bottom: 10px;
+  }
+}
+
+.bioQuote {
+  font-style: italic;
+  margin-top: 15px;
+}
+
+.postsViewer {
+  background: #eeece5;
+  display: flex;
+}
+
+.postForm {
+  width: 35%;
+  padding: 10px;
+}
+
+.postList {
+  padding: 10px;
+}
