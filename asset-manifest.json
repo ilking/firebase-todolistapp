@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/firebase-todolistapp/static/css/main.58a42eae.chunk.css",
+    "main.js": "/firebase-todolistapp/static/js/main.e36cd37c.chunk.js",
+    "runtime-main.js": "/firebase-todolistapp/static/js/runtime-main.c1b49543.js",
+    "static/js/2.26a3f18d.chunk.js": "/firebase-todolistapp/static/js/2.26a3f18d.chunk.js",
+    "index.html": "/firebase-todolistapp/index.html",
+    "static/css/main.58a42eae.chunk.css.map": "/firebase-todolistapp/static/css/main.58a42eae.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1b49543.js",
+    "static/js/2.26a3f18d.chunk.js",
+    "static/css/main.58a42eae.chunk.css",
+    "static/js/main.e36cd37c.chunk.js"
+  ]
+}
